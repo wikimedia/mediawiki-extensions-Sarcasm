@@ -28,8 +28,11 @@ $wgExtensionCredits['other'][] = array(
         'version'        => '1.0',
         'author'         => '[http://sturmkrieg.de/User:Inquisitor_Ehrenstein Inquisitor Ehrenstein]',
         'url'            => 'https://www.mediawiki.org/wiki/Extension:Sarcasm',
-        'description'    => 'This extension adds sarcasm tags to the wiki in order to more clearly show sarcasm in text.',
+        'descriptionmsg' => 'sarcasm-desc',
 );
+
+// i18n
+$wgExtensionMessagesFiles['Sarcasm'] =  __DIR__ . '/Sarcasm.i18n.php';
 
 $wgHooks['ParserFirstCallInit'][] = 'wfSarcasmParserInit';
 
