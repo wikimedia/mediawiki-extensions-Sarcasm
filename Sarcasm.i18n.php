@@ -29,6 +29,20 @@ $messages['de'] = array(
 	'sarcasm-desc' => 'Ergänzt das <code>&lt;sarcasm></code>-Tag zur besseren Verdeutlichung von Sarkasmus im Text',
 );
 
+/** Spanish (español)
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'sarcasm-desc' => 'Añade la etiqueta <code>&lt;sarcasm></code> para resaltar el sarcasmo en el texto',
+);
+
+/** French (français)
+ * @author Sherbrooke
+ */
+$messages['fr'] = array(
+	'sarcasm-desc' => 'Ajoute la balise <code>&lt;sarcasm></code> pour mettre en valeur un sarcasme dans le texte',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
@@ -36,11 +50,32 @@ $messages['gl'] = array(
 	'sarcasm-desc' => 'Engade a etiqueta <code>&lt;sarcasm></code> para mostrar máis claramente un sarcasmo no texto',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'sarcasm-desc' => 'Aggiunge il tag <code>&lt;sarcasm></code> al fine di mostrare più chiaramente il sarcasmo nel testo',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
 $messages['ja'] = array(
 	'sarcasm-desc' => '本文内の皮肉 (sarcasm) を明確に表示するための <code>&lt;sarcasm></code> タグを追加する',
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'sarcasm-desc' => 'Setzt den Tag <code>&lt;sarcasm></code> derbäi fir Sarkasmus besser an Texter ze weisen',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'sarcasm-desc' => 'Додава ознаки <code>&lt;sarcasm></code> во текст за јасно укажување на сарказам',
 );
 
 /** Brazilian Portuguese (português do Brasil)
