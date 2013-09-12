@@ -36,6 +36,13 @@ $messages['es'] = array(
 	'sarcasm-desc' => 'Añade la etiqueta <code>&lt;sarcasm></code> para resaltar el sarcasmo en el texto',
 );
 
+/** Finnish (suomi)
+ * @author Stryn
+ */
+$messages['fi'] = array(
+	'sarcasm-desc' => 'Lisää <code>&lt;sarcasm></code>-tagin, jotta sarkasmin pystyy näyttämään paremmin tekstissä',
+);
+
 /** French (français)
  * @author Sherbrooke
  */
