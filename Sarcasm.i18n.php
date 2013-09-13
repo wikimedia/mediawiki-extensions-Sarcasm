@@ -22,6 +22,13 @@ $messages['qqq'] = array(
 	'sarcasm-desc' => '{{desc|name=Sarcasm|url=https://www.mediawiki.org/wiki/Extension:Sarcasm}}',
 );
 
+/** Czech (česky)
+ * @author Mormegil
+ */
+$messages['cs'] = array(
+	'sarcasm-desc' => 'Přidává značku <code>&lt;sarcasm</code> pro zřetelnější označení sarkasmu v textu',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -90,6 +97,13 @@ $messages['mk'] = array(
  */
 $messages['pt-br'] = array(
 	'sarcasm-desc' => 'Adiciona a etiqueta <code>&lt;sarcasm></code> a fim de indicar mais claramente o uso de sarcasmo no texto',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'sarcasm-desc' => "Aggiunge 'nu tag <code>&lt;sarcasm></code> referite a 'na maggiore chiarezze de ironìe jndr'à 'u teste",
 );
 
 /** Swedish (svenska)
