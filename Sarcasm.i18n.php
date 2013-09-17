@@ -92,6 +92,13 @@ $messages['mk'] = array(
 	'sarcasm-desc' => 'Додава ознаки <code>&lt;sarcasm></code> во текст за јасно укажување на сарказам',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'sarcasm-desc' => 'Apond la balisa <code>&lt;sarcasm></code> per metre en valor un sarcasme dins lo tèxte',
+);
+
 /** Brazilian Portuguese (português do Brasil)
  * @author Cainamarques
  */
