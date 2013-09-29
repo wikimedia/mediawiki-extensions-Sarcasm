@@ -113,6 +113,13 @@ $messages['roa-tara'] = array(
 	'sarcasm-desc' => "Aggiunge 'nu tag <code>&lt;sarcasm></code> referite a 'na maggiore chiarezze de ironìe jndr'à 'u teste",
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'sarcasm-desc' => 'Добавляет тег <code>&lt;sarcasm&gt;</code> для того, чтобы более ясно показать сарказм в тексте',
+);
+
 /** Swedish (svenska)
  * @author Lokal Profil
  */
