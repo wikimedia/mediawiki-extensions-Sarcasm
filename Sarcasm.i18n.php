@@ -22,6 +22,13 @@ $messages['qqq'] = array(
 	'sarcasm-desc' => '{{desc|name=Sarcasm|url=https://www.mediawiki.org/wiki/Extension:Sarcasm}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'sarcasm-desc' => "Amiesta la etiqueta <code>&lt;sarcasm></code> p'amosar más claramente un sarcasmu nel testu",
+);
+
 /** Czech (česky)
  * @author Mormegil
  */
