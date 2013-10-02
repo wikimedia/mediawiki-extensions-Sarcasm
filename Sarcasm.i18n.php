@@ -127,6 +127,13 @@ $messages['ru'] = array(
 	'sarcasm-desc' => 'Добавляет тег <code>&lt;sarcasm&gt;</code> для того, чтобы более ясно показать сарказм в тексте',
 );
 
+/** Slovenian (slovenščina)
+ * @author Eleassar
+ */
+$messages['sl'] = array(
+	'sarcasm-desc' => 'Za jasnejšo označitev sarkazma v besedilu doda oznako <code>&lt;sarcasm></code>',
+);
+
 /** Swedish (svenska)
  * @author Lokal Profil
  */
