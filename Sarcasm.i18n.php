@@ -85,6 +85,13 @@ $messages['ja'] = array(
 	'sarcasm-desc' => '本文内の皮肉 (sarcasm) を明確に表示するための <code>&lt;sarcasm></code> タグを追加する',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'sarcasm-desc' => 'Brängk dä Befähl <code>&lt;sarcasm></code> en et Wikki, öm sakaßtesche Täxschtöcker makeere ze künne.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
