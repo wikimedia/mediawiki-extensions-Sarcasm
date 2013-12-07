@@ -29,7 +29,7 @@ $messages['ast'] = array(
 	'sarcasm-desc' => "Amiesta la etiqueta <code>&lt;sarcasm></code> p'amosar más claramente un sarcasmu nel testu",
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Mormegil
  */
 $messages['cs'] = array(
