@@ -106,6 +106,13 @@ $messages['mk'] = array(
 	'sarcasm-desc' => 'Додава ознаки <code>&lt;sarcasm></code> во текст за јасно укажување на сарказам',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'sarcasm-desc' => 'Voegt het label <code>&lt;sarcasm></code> toe om sarcasme in tekst duidelijker weer te geven',
+);
+
 /** Occitan (occitan)
  * @author Cedric31
  */
