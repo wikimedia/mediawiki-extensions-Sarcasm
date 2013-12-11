@@ -161,3 +161,10 @@ $messages['sv'] = array(
 $messages['uk'] = array(
 	'sarcasm-desc' => 'Додає теґ <code><сарказм></code> для того, щоб зрозуміліше показати сарказм у тексті',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'sarcasm-desc' => '添加<code>&lt;sarcasm></code>标签，更清楚的显示文本中的讽刺',
+);
