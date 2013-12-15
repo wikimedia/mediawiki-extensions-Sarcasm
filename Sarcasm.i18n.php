@@ -120,6 +120,13 @@ $messages['oc'] = array(
 	'sarcasm-desc' => 'Apond la balisa <code>&lt;sarcasm></code> per metre en valor un sarcasme dins lo tèxte',
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'sarcasm-desc' => 'Dodaje znacznik <code>&lt;sarcasm></code>, aby wyraźniej pokazać w tekście sarkazm',
+);
+
 /** Brazilian Portuguese (português do Brasil)
  * @author Cainamarques
  */
