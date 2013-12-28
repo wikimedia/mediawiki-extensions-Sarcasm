@@ -43,6 +43,13 @@ $messages['de'] = array(
 	'sarcasm-desc' => 'Ergänzt das <code>&lt;sarcasm></code>-Tag zur besseren Verdeutlichung von Sarkasmus im Text',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'sarcasm-desc' => 'Pśidawa element <code>&lt;sarcasm></code>, aby se sarkazm w teksće jasnjej pokazał',
+);
+
 /** Spanish (español)
  * @author Fitoschido
  */
@@ -69,6 +76,13 @@ $messages['fr'] = array(
  */
 $messages['gl'] = array(
 	'sarcasm-desc' => 'Engade a etiqueta <code>&lt;sarcasm></code> para mostrar máis claramente un sarcasmo no texto',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'sarcasm-desc' => 'Přidawa element <code>&lt;sarcasm></code>, zo by so sarkazm w teksće jasnišo pokazał',
 );
 
 /** Italian (italiano)
