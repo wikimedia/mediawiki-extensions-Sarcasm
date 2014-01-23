@@ -99,6 +99,13 @@ $messages['ja'] = array(
 	'sarcasm-desc' => '本文内の皮肉 (sarcasm) を明確に表示するための <code>&lt;sarcasm></code> タグを追加する',
 );
 
+/** Korean (한국어)
+ * @author Priviet
+ */
+$messages['ko'] = array(
+	'sarcasm-desc' => '본문에 더 많은 sarcasm을 보이기 위해 <code>&lt;sarcasm></code> 태그를 추가',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
