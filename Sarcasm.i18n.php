@@ -57,6 +57,13 @@ $messages['es'] = array(
 	'sarcasm-desc' => 'Añade la etiqueta <code>&lt;sarcasm></code> para resaltar el sarcasmo en el texto',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'sarcasm-desc' => 'افزودن برچسب <code>&lt;sarcasm></code> برای نمایش کنایه واضح بیشتر در متن',
+);
+
 /** Finnish (suomi)
  * @author Stryn
  */
