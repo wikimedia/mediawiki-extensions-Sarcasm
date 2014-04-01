@@ -7,7 +7,6 @@
  *
  * @ingroup Extensions
  * @author Inquisitor Ehrenstein <inquisitorsasha@sturmkrieg.de>
- * @version 1.0
  * @link https://www.mediawiki.org/wiki/Extension:Sarcasm
  * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  */
@@ -25,13 +24,14 @@ if( !defined( 'MEDIAWIKI' ) ) {
 $wgExtensionCredits['other'][] = array(
         'path'           => __FILE__,
         'name'           => 'Sarcasm',
-        'version'        => '1.0',
+        'version'        => '1.1.0',
         'author'         => '[http://sturmkrieg.de/User:Inquisitor_Ehrenstein Inquisitor Ehrenstein]',
         'url'            => 'https://www.mediawiki.org/wiki/Extension:Sarcasm',
         'descriptionmsg' => 'sarcasm-desc',
 );
 
 // i18n
+$wgMessagesDirs['Sarcasm'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['Sarcasm'] =  __DIR__ . '/Sarcasm.i18n.php';
 
 $wgHooks['ParserFirstCallInit'][] = 'wfSarcasmParserInit';
