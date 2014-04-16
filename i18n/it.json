@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Beta16"
-        ]
-    },
-    "sarcasm-desc": "Aggiunge il tag <code>&lt;sarcasm></code> al fine di mostrare più chiaramente il sarcasmo nel testo"
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"sarcasm-desc": "Aggiunge il tag <code>&lt;sarcasm></code> al fine di mostrare più chiaramente il sarcasmo nel testo"
 }
