@@ -32,7 +32,6 @@ $wgExtensionCredits['other'][] = array(
 
 // i18n
 $wgMessagesDirs['Sarcasm'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['Sarcasm'] =  __DIR__ . '/Sarcasm.i18n.php';
 
 $wgHooks['ParserFirstCallInit'][] = 'wfSarcasmParserInit';
 
