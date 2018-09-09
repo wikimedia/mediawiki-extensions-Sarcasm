@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño"
+			"Toliño",
+			"Elisardojm"
 		]
 	},
-	"sarcasm-desc": "Engade a etiqueta <code>&lt;sarcasm></code> para mostrar máis claramente un sarcasmo no texto"
+	"sarcasm-desc": "Engade a etiqueta <code>&lt;sarcasm></code> para amosar máis claramente un sarcasmo no texto"
 }
