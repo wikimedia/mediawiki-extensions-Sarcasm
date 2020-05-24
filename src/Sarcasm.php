@@ -5,25 +5,21 @@ class Sarcasm {
 	/**
 	 * Hook our callback function into the parser
 	 *
-	 * @param $parser Parser
-	 * @return bool
+	 * @param Parser $parser
 	 */
 	static function wfSarcasmParserInit( Parser $parser ) {
 		// When the parser sees the <sarcasm> tag, it executes
 		// the wfSarcasmRender function (see below)
-		$parser->setHook( 'sarcasm', 'Sarcasm::wfSarcasmRender' );
-		// Always return true from this function. The return value does not denote
-		// success or otherwise have meaning - it just must always be true.
-		return true;
+		$parser->setHook( 'sarcasm', [ __CLASS__, 'wfSarcasmRender' ] );
 	}
 
 	/**
 	 * Code for tags
 	 *
-	 * @param $text string
-	 * @param $args array
-	 * @param $parser Parser
-	 * @param $frame PPFrame
+	 * @param string $text
+	 * @param string[] $args
+	 * @param Parser $parser
+	 * @param PPFrame $frame
 	 * @return string
 	 */
 	static function wfSarcasmRender( $text, array $args, Parser $parser, PPFrame $frame ) {
