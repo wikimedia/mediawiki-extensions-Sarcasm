@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"sarcasm-desc": "Dodaje tagove <code>&lt;sarcasm></code> u tekst za vidljivo ukazanje sarkazma"
+}
