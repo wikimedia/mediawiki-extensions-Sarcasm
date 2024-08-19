@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Ceirios"
 		]
 	},
 	"sarcasm-desc": "Yn ychwanegu tag <code>&lt;sarcasm></code> er mwyn dangos coegni yn gliriach yn y testun"
